@@ -5,4 +5,4 @@ Here, I work with various datasets, attempting to analyze and solve the problems
 
 
 # Project 1 :-
-* Pridict the onset of diabetes based on diagnostic measures :
+* Predict the onset of diabetes based on diagnostic measures :
